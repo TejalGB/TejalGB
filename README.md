@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Tejal Bhagwatikar
 
-<!--
-**TejalGB/TejalGB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data & Business Intelligence Analyst with 2+ years of enterprise experience.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- SQL (MySQL)
+- Python (Pandas, Scikit-learn)
+- Power BI
+- Data Modeling (Star/Snowflake Schema)
+- Feature Engineering
+- Dashboard Development
+  
+
+## 📊 Featured Projects
+
+### 📈 Job Market Analytics & BI Dashboard
+Processed 94K+ job postings, engineered salary and experience features, built star schema model and interactive Power BI dashboards.
+
+### 📡 Telecom Revenue Forecasting
+Developed regression-based forecasting model and performance BI dashboard using Python and Power BI.
+
+---
+
+💼 Open to Data Analyst / Business Intelligence roles
